@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/dcd76d23a2f5bebd4eb9e034b50ec535c318e22b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed0eeceda272af33e165edc9dd7c04b487fbe318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/e0ee1840d5a1b5d27023b2af999c110919c6cd8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40e5323aefde538e87ad91c94752fcfaeea41dd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3682a04640d3c82b693817eff641488845f5d2b3">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8828e739b0f9e9568a88aaf94e1369c78da80369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/04b0d99a598bc390df95839237d2d4e2965afd80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_986fc9485475a5dbaae18c35ece6675757838d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/d351ea7102dea08133f76d80903a28c966b20617/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b5810ccc2a1c9ea14e8bb7a344e2fc7623b627a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/67d8c7e079d5c77267649a9c65fd3da0089491ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a307f86f88ae26e5feab43498f8e114ca291d64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_175c6352857f9a4e833189f575719b7acf4afc70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/7a39df210f8e5a6e63e94d4b8077e46eaba81cf6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59d9e7de516b31cb7a32f11297dcd446df34e6df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b8623dd4e3464edcc63f47d13c3b173fcc25f195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/5e11591c6ef3132695a1a6121c418d1912fb19e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_203af25149adc50269cdbd17f88743861c99e3c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/2d7117a207ae6d09156150e79ea2fb582139eeb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_155d66bfc426f61e3a4c180a00510f43c32899d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/7bbd95f473d2742892a3e0919e66ca2ab7258c20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_640732855246ff5ad9a215efa8f120591276c29e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cheema/.android/build-cache/f914d01f23a88827cfc266efafbadabbb0f07a80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Cheema/Documents/AndroidStudioProjects/Udacity/RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f89d081a173279b777bc562604640ebccf7589a7/classes.dex" />
+    </item>
+
+</items>
